@@ -1,0 +1,11 @@
+opencv-python
+gTTS
+playsound
+Click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+gunicorn
+matplotlib
